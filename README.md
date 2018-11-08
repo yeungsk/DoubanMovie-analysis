@@ -16,7 +16,7 @@
 
 ### 爬虫代码
 
-爬虫部分的介绍，详见[博文](https://yeungsk.github.io/2018/10/08/%E7%88%AC%E8%99%AB%E5%AE%9E%E6%88%98(%E4%B8%80)%E5%88%A9%E7%94%A8scrapy%E7%88%AC%E5%8F%96%E8%B1%86%E7%93%A3%E5%8D%8E%E8%AF%AD%E7%94%B5%E5%BD%B1/)
+爬虫部分的介绍，详见[博文](https://blog.csdn.net/weixin_43004311/article/details/82962159)
 
 代码：https://github.com/yeungsk/douban-spiders
 
