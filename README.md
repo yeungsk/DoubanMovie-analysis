@@ -18,7 +18,7 @@
 
 爬虫部分的介绍，详见[博文](https://blog.csdn.net/weixin_43004311/article/details/82962159)
 
-代码：https://github.com/yeungsk/douban-spiders
+代码：https://github.com/yeungsk/douban-spider
 
 
 
