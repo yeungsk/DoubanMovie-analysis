@@ -8,9 +8,9 @@
 
 ### 文章
 
-文章发表于『运筹OR帷幄』公众号
+文章发表于『运筹OR帷幄』公众号和本人的CSDN博客
 
-链接: https://mp.weixin.qq.com/s/eL2nV59-DE1uUrufjDH_LA
+链接: https://blog.csdn.net/weixin_43004311/article/details/84575014
 
 
 
